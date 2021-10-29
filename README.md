@@ -2,7 +2,6 @@
 <a href="https://www.linkedin.com/in/arya-anggara-571b93224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 <a href="https://github.com/arya-anggara"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
-![Arya GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-anggara&count_private=true&theme=radical)
 
 
 #### Welcome to my GitHub profile 🥰
@@ -35,6 +34,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+![Arya GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-anggara&count_private=true&theme=radical)
 
 
 <br/>
