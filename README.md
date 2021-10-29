@@ -14,10 +14,10 @@
 -⚡ Fun Fact: Love to listening music.
 
 ## My interests 💙
-* Web development
+* Mobile development
 * UI/UX design 
 * Flutter
-* Mobile development
+* Web development
 <br/>
 
 **Languages and Tools:**  
