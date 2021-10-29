@@ -5,7 +5,7 @@
 
 
 #### Welcome to my GitHub profile 🥰
--👩‍💻 I’m Arya Anggara, a Full Stack Developer
+-🧑‍💻 I’m Arya Anggara, a Full Stack Developer
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
