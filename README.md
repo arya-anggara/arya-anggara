@@ -40,7 +40,7 @@
 ![Arya GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-anggara&count_private=true&theme=radical)
 
 
-<a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="200" alt="Arya Anggara's Dev Card"/></a>
+<a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="300" alt="Arya Anggara's Dev Card"/></a>
 
 
 <br/>
