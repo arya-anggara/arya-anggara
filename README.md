@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/arya-anggara-571b93224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 <a href="https://github.com/arya-anggara"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
+<a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="400" alt="Arya Anggara's Dev Card"/></a>
+
 
 
 #### Welcome to my GitHub profile 🥰
