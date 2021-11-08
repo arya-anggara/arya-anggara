@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/arya-anggara-571b93224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 <a href="https://github.com/arya-anggara"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
-<a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="400" alt="Arya Anggara's Dev Card"/></a>
+
 
 
 
@@ -38,6 +38,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ![Arya GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-anggara&count_private=true&theme=radical)
+
+
+<a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="200" alt="Arya Anggara's Dev Card"/></a>
 
 
 <br/>
