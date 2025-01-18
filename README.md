@@ -50,13 +50,6 @@ Here are some of the languages and tools I use:
 <br/>
 <hr/>
 
-## GitHub Stats
-Here's an overview of my GitHub activity:
-
-<br/>
-
-![Arya GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-anggara&count_private=true&theme=radical)
-<br/>
 <a href="https://app.daily.dev/aryaanggara"><img src="https://api.daily.dev/devcards/087bb566f1684f138f7fe15f9ca45c46.png?r=dll" width="300" alt="Arya Anggara's Dev Card"/></a>
 
 <br/>
